@@ -14,6 +14,10 @@
 
 I am an upcoming final-year **BSc Economics** Student at the **London School of Economics and Political Science (LSE)**.
 
+I am passionate about global affairs, business, business strategy, investing, and macroeconomics.
+
+[Click Here](CV_Daniel_Halm_Alvarez.pdf) to view my CV
+
 ## Projects
 
 ### Group 1: [Econ_Projects](https://github.com/danielhalm1407/EconProjects/tree/main)
