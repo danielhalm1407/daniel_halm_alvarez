@@ -1,6 +1,6 @@
 # Daniel Halm-Alvarez
 
-[Click here to view the (Less Stable) HTLM version](../index.html)
+[Click here to view the (Less Stable) HTML version](../index.html)
 
 ![Daniel Halm-Alvarez](../images/github_photo_daniel_halm_alvarez.jpg)
 
