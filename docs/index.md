@@ -2,7 +2,7 @@
 
 [Click here to view the (Less Stable) HTLM version](../index.html)
 
-![Daniel Halm-Alvarez](../../images/github_photo_daniel_halm_alvarez.jpg)
+![Daniel Halm-Alvarez](../images/github_photo_daniel_halm_alvarez.jpg)
 
 ## Contact Information
 
