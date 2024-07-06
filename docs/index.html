@@ -17,6 +17,20 @@
         .wide-column {
             width: 40%;
         }
+        .indented-heading {
+            margin-left: 20px;
+        }
+        .full-indent {
+            padding-left: 40px;
+            text-indent: -40px;
+        }
+        .profile-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 150px; /* Adjust the width as needed */
+            border-radius: 50%; /* Optional: makes the image circular */
+        }
     </style>
 </head>
 <body>
@@ -39,20 +53,27 @@
     </table>
 
     <h2>Career Profile</h2>
-    <p>I am a [your current job title/role], with experience in [your main skills or industries]. My expertise includes [briefly list your areas of expertise or main technologies you work with].</p>
+    <p class="full-indent">
+    I am an upcoming final-year <strong>BSc Economics</strong> Student at the <strong>London School of Economics and Political Science (LSE).</strong>
+</p>
+
 
     <h2>Projects</h2>
+    <img src="../images/github_photo_daniel_halm_alvarez.jpg" alt="Daniel Halm-Alvarez" class="profile-image">
+    <h3>Group 1: <a href="https://github.com/danielhalm1407/EconProjects/tree/main">Econ_Projects</a></h3>
+    <p>A set of <b>economics and finance</b> related side-passion projects.</p>
 
-    <h3>Project 1: [Project Title]</h3>
-    <p>[Brief description of Project 1, what it does, and any technologies used.]</p>
-    <p><a href="[URL to Project 1]">Link to Project 1 repository</a></p>
-
-    <h3>Project 2: [Project Title]</h3>
-    <p>[Brief description of Project 2, what it does, and any technologies used.]</p>
-    <p><a href="[URL to Project 2]">Link to Project 2 repository</a></p>
-
-    <h3>Project 3: [Project Title]</h3>
-    <p>[Brief description of Project 3, what it does, and any technologies used.]</p>
-    <p><a href="[URL to Project 3]">Link to Project 3 repository</a></p>
+        <h4 class="indented-heading">Project 1: UBI_Test</h4>
+        <p class="full-indent">Modelling the Effect of a Universal Basic Income Transfer on Income Distribution Throughout time</p>
+        
+    <h4 class="indented-heading">Project 2: Investment_Theory</h4>
+        <p class="full-indent">Predicting the returns of equities throughout time and attributing them to income and capital appreciation components.
+        </p>
+        <p class="full-indent">Predicting the returns of equities based on historic earnings growth, using a geometric series to predict the multiple the market will price in, and hence project price returns. Use this to create a rules-based 'select' index/rules based portfolio.</p>
+        <p class="full-indent"> <b>In future: </b>Aim to use past data to make prediction model stochastic: fit the distribution of the P/E multiple and in turn find the probability distrubution of the (dependent) price returns.</p>
+        <p class="full-indent"> <b>In future: </b>Turn into a script that continuously queries the Bloomberg API and rebalances the portfolio. To do this monthly, likely need a cloud tool of some kind.</p>
+    <h4 class="indented-heading">Project 3: Transit Fantasy</h4>
+        <p class="full-indent">Import existing Google MyMaps transit fantasy maps (as KML Files) and take them even further. Purely for fun.</p>
+    </p>    
 </body>
 </html>
