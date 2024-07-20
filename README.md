@@ -10,7 +10,7 @@ This repository is established as a set of pages serving as a summary of my pers
 
 ## Portrait
 
-![Daniel Halm-Alvarez](images/github_photo_daniel_halm_alvarez.jpg)
+![Daniel Halm-Alvarez](docs/subpages_1/images/github_photo_daniel_halm_alvarez.jpg)
 
 
 
