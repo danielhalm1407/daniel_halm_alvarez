@@ -20,7 +20,7 @@ I am an upcoming final-year **BSc Economics** Student at the **London School of 
 
 I am passionate about global affairs, business, business strategy, investing, and macroeconomics.
 
-[Click Here](CV_Daniel_Halm_Alvarez.pdf) to view my CV
+[Click Here](docs/subpages_1/CV_Daniel_Halm_Alvarez.pdf) to view my CV
 
 ## Projects
 
